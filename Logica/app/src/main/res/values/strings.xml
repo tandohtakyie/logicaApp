@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="displayA">A</string>
+    <string name="displayB">B</string>
+    <string name="displayBothAandB">A^B</string>
+    <string name="displayT">T</string>
+    <string name="displayF" >F</string>
+    <string name="placeholder" >fill in</string>
+    <string name="buttonName">Submit</string>
+</resources>
